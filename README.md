@@ -24,6 +24,6 @@ A simple console-based banking system written in C++ that allows users to create
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/yash-bank.git
+   git clone https://github.com/yashnarsale/yash-bank.git
    cd yash-bank
 
